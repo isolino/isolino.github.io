@@ -1,18 +1,18 @@
 # Site
-repository: sproogen/resume-theme
+repository: isolino/isolino.github.io 
 favicon: images/favicon.ico
 
 # Content configuration version
 version: 2
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+name: Isolino G. Ferreira 
+title: Android Developer
+email: isolinogf@gmail.com
+website: isolino.github.io
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: never
 
 # Social links
 twitter_username: facespics
